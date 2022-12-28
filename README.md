@@ -239,8 +239,6 @@
   </tr>   
 </table>
 
-<br>
-
 ## English Level:
 
 Advanced (C1) 
