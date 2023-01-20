@@ -1,7 +1,6 @@
-## Hi there! 👋
+<img src="./assets/cover.gif" width="100%">
 
-
-<h2 align="left" id="hero">My name is Vlad and I am a Front-End Developer</h2> 
+<h2 align="left" id="hero">My name is Vlad and I am a Front-End Developer</h2>
 
 - ⚡ I’m interested in UI development technologies and Web3
 - 🌱 I’m currently learning NodeJS
@@ -9,8 +8,8 @@
 
 <h2 align="left" id="tengokuvision-stack">Tech stack</h2>
 
->  General
- 
+> General
+
 <table width='100%'>
   <tr>
     <td align="center" width="96">
@@ -64,8 +63,8 @@
   </tr> 
 </table>
 
->  Frontend
- 
+> Frontend
+
 <table width='100%'>
   <tr>
     <td align="center" width="96">
@@ -145,7 +144,7 @@
   </tr> 
 </table>
 
->  Code quality
+> Code quality
 
 <table width='100%'>
   <tr>
@@ -176,8 +175,8 @@
   </tr> 
 </table>
 
->  Mobile
- 
+> Mobile
+
 <table width='100%'>
   <tr>
     <td align="center" width="96">
@@ -189,8 +188,8 @@
   </tr> 
 </table>
 
->  Backend
- 
+> Backend
+
 <table width='100%'>
   <tr>
     <td align="center" width="96"> 
@@ -220,8 +219,8 @@
   </tr> 
 </table>
 
->  Other
- 
+> Other
+
 <table width='100%'>
   <tr>
     <td align="center" width="96">
@@ -241,4 +240,4 @@
 
 ## English Level:
 
-Advanced (C1) 
+Advanced (C1)
