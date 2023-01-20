@@ -1,10 +1,10 @@
 <img src="./assets/cover.gif" width="100%">
 
-<h2 align="left" id="hero">My name is Vlad and I am a Front-End Developer</h2>
+_____
+<h3 align="center">Vladislav Subbotin, also known as <a href="https://t.me/cyberomanov" target="_blank">@tengokuvision</a>.</h3>
+<p align="center">frontend developer. crypto enthusiast. <a href="https://itrocket.net" target="_blank">ITRocket Team</a> member.</p>
 
-- ⚡ I’m interested in UI development technologies and Web3
-- 🌱 I’m currently learning NodeJS
-- 💬 Ask me about projects, technologies or music
+____
 
 <h2 align="left" id="tengokuvision-stack">Tech stack</h2>
 
@@ -171,19 +171,6 @@
         <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="48" height="48" alt="Jest" />
       </a>
       <br>Jest
-    </td>
-  </tr> 
-</table>
-
-> Mobile
-
-<table width='100%'>
-  <tr>
-    <td align="center" width="96">
-      <a href="#tengokuvision-stack">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React Native" />
-      </a>
-      <br>React Native
     </td>
   </tr> 
 </table>
