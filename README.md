@@ -1,5 +1,3 @@
-<img src="./assets/cover.gif" width="100%">
-
 _____
 <h3 align="center">Vladislav Subbotin, also known as <a href="https://t.me/tengokuvision" target="_blank">@tengokuvision</a>.</h3>
 <p align="center">frontend developer. crypto enthusiast. <a href="https://itrocket.net" target="_blank">ITRocket Team</a> member.</p>
