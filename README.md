@@ -230,7 +230,3 @@ ____
     </td>
   </tr>   
 </table>
-
-## English Level:
-
-Advanced (C1)
